@@ -23,11 +23,11 @@
 
 <hr class="vid-seperator" />
 
-## Nuxt Tutorial - Lesson 1
+## Nuxt Tutorial - Lesson 1 & 2
 
 <div class="iframe-wrapper">
     <iframe
-    src="https://player.vimeo.com/video/353923621"
+    src="https://player.vimeo.com/video/353944853"
     style="position:absolute;top:0;left:0;width:100%;height:100%;"
     frameborder="0"
     allow="autoplay; fullscreen"
